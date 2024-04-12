@@ -1,0 +1,12 @@
+{
+    "id": ID,
+    "name": "LEVEL NAME",
+    "author": "LEVEL PUBLISHER",
+    "creators": ["CREATORS"],
+    "verifier": "LEVEL VERIFIER",
+    "verification": "LEVEL VERIFICATION",
+    "showcase": "",
+    "percentToQualify": 50,
+    "records": [
+     ]
+}
