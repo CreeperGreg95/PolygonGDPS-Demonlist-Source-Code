@@ -8,5 +8,11 @@
     "showcase": "",
     "percentToQualify": 30,
     "records": [
+      {
+        "user": "DarkKA Lonera",
+        "link": "https://youtu.be/eRODIyh8r1w",
+        "percent": 100,
+        "hz": 435
+          }
 		 ]
 }
