@@ -8,5 +8,11 @@
     "showcase": "",
     "percentToQualify": 20,
     "records": [
+      {
+        "user": "igndoom",
+        "link": "https://www.youtube.com/watch?v=In-a5iqP8uM",
+        "percent": 100,
+        "hz": 435
+          }
 		 ]
 }

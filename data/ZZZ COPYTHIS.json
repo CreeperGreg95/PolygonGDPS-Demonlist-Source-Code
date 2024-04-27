@@ -8,5 +8,17 @@
     "showcase": "",
     "percentToQualify": 50,
     "records": [
+      {
+        "user": "Guy who beat level",
+        "link": "verification video",
+        "percent": 100,
+        "hz": 435
+          },
+      {
+        "user": "Guy who beat level",
+        "link": "verification video",
+        "percent": 100,
+        "hz": 435
+          }
      ]
 }

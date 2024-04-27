@@ -8,5 +8,11 @@
     "showcase": "",
     "percentToQualify": 70,
     "records": [
+      {
+        "user": "Botscoutt",
+        "link": "https://youtu.be/239StuN_gn8",
+        "percent": 100,
+        "hz": 435
+          }
      ]
 }
