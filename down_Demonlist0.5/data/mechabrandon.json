@@ -1,0 +1,18 @@
+{
+    "id": 1052,
+    "name": "MECHABRANDON",
+    "author": "TheMaker",
+    "creators": ["TheMaker"],
+    "verifier": "TheMaker",
+    "verification": "https://youtu.be/ypXeaAjJWtY?si=82X9KN3GYMoqmjvkM",
+    "showcase": "",
+    "percentToQualify": 70,
+    "records": [
+      {
+        "user": "Botscoutt",
+        "link": "https://youtu.be/Za49uBQ8aNw",
+        "percent": 100,
+        "hz": 435
+          }
+		 ]
+}
